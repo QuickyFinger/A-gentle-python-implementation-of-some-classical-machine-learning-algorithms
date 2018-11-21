@@ -3,7 +3,8 @@ I will implement some classical machine learning algorithms using raw python in 
 
 For decision tree, I use this tutorial https://github.com/Rudo-erek/decision-tree as a guide. Thanks for Rudo-erek's contribution. For more details about decision tree, please refer to **Statistic Learning Method** by **Hang Li**. There might be some bugs in my code, since I haven't checked carefully. 
 
-As Andrew Ng is fond of saying: "applied machine learning is basically feature engineering."
+As Andrew Ng is fond of saying: "applied machine learning is basically feature engineering."  Many times in machine learning, the only way to know if an approach will work is to try it out!
+
 
 ## demo code usage:
 In the terminal, type:  
