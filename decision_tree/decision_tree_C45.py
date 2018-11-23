@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from TreeNode import Node
 
-class Decision_Tree_ID3(object):
+class Decision_Tree_C45(object):
     def __init__(self, min_info_gain, x_data, y_data):
         self.min_info_gain = min_info_gain
         self.root_node = Node(x_data=x_data, y_data=y_data)
